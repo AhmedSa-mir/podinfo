@@ -129,6 +129,8 @@ serviceMonitor:
 
 resources:
   limits:
+    cpu: 100m
+    memory: 256Mi
   requests:
     cpu: 1m
     memory: 16Mi
