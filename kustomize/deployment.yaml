@@ -46,7 +46,7 @@ spec:
         - --random-error=false
         env:
         - name: PODINFO_UI_COLOR
-          value: "#3c527c"
+          value: "#3e527a"
         livenessProbe:
           exec:
             command:
