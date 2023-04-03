@@ -12,7 +12,7 @@ image:
   pullPolicy: IfNotPresent
 
 ui:
-  color: "#43bf7b"
+  color: "#b3cf7b"
   message: ""
   logo: ""
 
